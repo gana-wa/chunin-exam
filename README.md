@@ -16,11 +16,9 @@ Batch : 17-1
 
 4. GET, POST, PATCH, DELETE
 
-5.
-
-```SQL
-SELECT * FROM USERS WHERE nama LIKE ‘%Arkademy%’
-```
+5. ```SQL
+   SELECT * FROM USERS WHERE nama LIKE ‘%Arkademy%’
+   ```
 
 6. Authentication adalah proses otentikasi atau memverifikasi siapa atau apa yang diklaim untuk membuktikan keasliannya. Authorization adalah proses untuk memverifikasi apakah seseorang memiliki akses atau wewenang.
 
@@ -54,3 +52,7 @@ SELECT * FROM USERS WHERE nama LIKE ‘%Arkademy%’
 ## Logic
 
 1. [satu]
+
+```
+
+```
