@@ -55,4 +55,4 @@ Class component :
 ## Logic
 
 1. [Tiga]
-2. [Dua]
+2. [Dua](https://github.com/gana-wa/chunin-exam/blob/main/logic/2.js)
