@@ -32,11 +32,11 @@ Batch : 17-1
    - Tidak ada render method
    - Tidak ada lifecycle method
 
-Class component :
+   Class component :
 
-- Memiliki lifecycle method
-- Memiliki state
-- Harus ada render method untuk me return html
+   - Memiliki lifecycle method
+   - Memiliki state
+   - Harus ada render method untuk me return html
 
 10. Redux adalah library untuk manajemen state agar state dapat diakses dari berbagai komponen.
 
@@ -54,5 +54,11 @@ Class component :
 
 ## Logic
 
-1. [Tiga]
-2. [Dua](https://github.com/gana-wa/chunin-exam/blob/main/logic/2.js)
+1. Satu
+2. Dua
+3. Tiga
+4. Empat
+5. Lima
+6. Enam
+7. Tujuh
+8. Delapan
