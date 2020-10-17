@@ -27,13 +27,14 @@ Batch : 17-1
 8. Middleware adalah sebuah penengah atau sebuah aturan yang harus dilewati sebelum lanjut ke proses berikutnya. Manfaatnya adalah -----------------
 
 9. Functional component :
-   -Tidak memiliki state (hanya menerima props)
-   -Tidak ada render method
-   -Tidak ada lifecycle method
-   Class component :
-   -Memiliki lifecycle method
-   -Memiliki state
-   -Harus ada render method untuk me return html
+
+   - Tidak memiliki state (hanya menerima props)
+   - Tidak ada render method
+   - Tidak ada lifecycle method
+     Class component :
+   - Memiliki lifecycle method
+   - Memiliki state
+   - Harus ada render method untuk me return html
 
 10. Redux adalah library untuk manajemen state agar state dapat diakses dari berbagai komponen.
 
