@@ -24,7 +24,7 @@ Batch : 17-1
 
 7. Framework Express adalah framework node.js untuk membuat back-end dengan fitur routing dan middleware.
 
-8. Middleware adalah sebuah penengah atau sebuah aturan yang harus dilewati sebelum lanjut ke proses berikutnya. Manfaatnya adalah -----------------
+8. Middleware adalah sebuah penengah atau sebuah aturan yang harus dilewati sebelum lanjut ke proses berikutnya. Manfaatnya adalah untuk pengecekan input sebelum lanjut ke proses berikutnya.
 
 9. Functional component :
 
