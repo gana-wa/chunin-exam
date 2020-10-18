@@ -42,8 +42,8 @@ Batch : 17-1
 
 11. Microservice adalah pola arstitektur yang membagi aplikasi menjadi service yang lebih kecil, yang mana tiap service saling berhubungan dan tidak berada di satu tempat. Kelebihan microservice adalah :
 
-- Setiap pengembangan service tidak mengganggu service yang lain, sehingga memudahkan maintenance
-- Tiap service berdiri sendiri
+    - Setiap pengembangan service tidak mengganggu service yang lain, sehingga memudahkan maintenance
+    - Tiap service berdiri sendiri
 
 12. Kegunaan content type untuk memberitahu server jenis data yang dikirim.
 
