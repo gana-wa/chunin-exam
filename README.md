@@ -54,11 +54,11 @@ Batch : 17-1
 
 ## Logic
 
-1. Satu
-2. Dua
-3. Tiga
-4. Empat
-5. Lima
-6. Enam
-7. Tujuh
-8. Delapan
+1. [Satu](https://github.com/gana-wa/chunin-exam/blob/main/logic/1.js)
+2. [Dua](https://github.com/gana-wa/chunin-exam/blob/main/logic/2.js)
+3. [Tiga](https://github.com/gana-wa/chunin-exam/blob/main/logic/3.sql)
+4. [Empat](https://github.com/gana-wa/chunin-exam/blob/main/logic/4.js)
+5. [Lima](https://github.com/gana-wa/chunin-exam/blob/main/logic/5.js)
+6. [Enam](https://github.com/gana-wa/chunin-exam/blob/main/logic/6.js)
+7. [Tujuh](https://github.com/gana-wa/chunin-exam/blob/main/logic/7.js)
+8. [Delapan](https://github.com/gana-wa/chunin-exam/blob/main/logic/8.js)
